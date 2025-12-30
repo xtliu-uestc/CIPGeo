@@ -37,9 +37,9 @@ Download it and place it in the "datasets" folder.
 
 **Run：**
 
-# Open the "CIPGeo" folder
+# Open the "CIPGeo_code" folder
 ```bash
-cd CIPGeo
+cd CIPGeo_code
 ```
 # data preprocess (executing IP clustering).
 ```bash
