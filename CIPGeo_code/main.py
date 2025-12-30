@@ -182,7 +182,7 @@ if __name__ == "__main__":
     print(f"\n[Saved] {len(all_states)} models saved in ONE file:")
     print(f"     --> {combined_path}")
 
-    # Outtput Top 3
+    # Output Top 3
     sorted_candidates = sorted(
         saved_candidates,
         key=lambda c: (c["width_lon"], c["width_lat"], c["rmse"], c["mae"], c["median"])
