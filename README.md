@@ -35,7 +35,8 @@ https://github.com/ICDM-UESTC/TrustGeo
 Download it and place it in the "datasets" folder.
 
 
-**run：**
+**Run：**
+
 # Open the "CIPGeo" folder
 ```bash
 cd CIPGeo
